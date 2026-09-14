@@ -6,12 +6,12 @@
 
 1. Clone este repo:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/micdepieri/mappi-agents-contabeis.git
    ```
 
 2. Copie os agentes para o seu projeto Claude Code:
    ```bash
-   cp -r agents-contadores/agents/* /caminho/do/seu/projeto/.claude/agents/
+   cp -r mappi-agents-contabeis/agents/* /caminho/do/seu/projeto/.claude/agents/
    ```
 
    Ou, para uso global: `~/.claude/agents/`.
